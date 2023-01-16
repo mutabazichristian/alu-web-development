@@ -1,6 +1,8 @@
 body{
     display: flex;
     flex-direction: column;
+    color: antiquewhite;
+    background-color: black;
 }
 
 main{
