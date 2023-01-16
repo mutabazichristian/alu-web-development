@@ -9,14 +9,17 @@ main{
     display: flex;
     flex-direction: row;
     flex: auto;
+    color: antiquewhite;
 }
 
 article{
+    color: antiquewhite;
     flex: 2;
     overflow-y: auto;
 }
 
 aside{
+    color: antiquewhite;
     flex: 1;
     overflow-y: auto;
 }
