@@ -5,7 +5,7 @@ body{
     background-color: black;
 }
 
-header{
+header, li, ul{
     color: antiquewhite;
 }
 
