@@ -5,6 +5,10 @@ body{
     background-color: black;
 }
 
+header{
+    color: antiquewhite;
+}
+
 main{
     display: flex;
     flex-direction: row;
