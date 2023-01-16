@@ -19,8 +19,6 @@ article{
 }
 
 aside{
-    color: antiquewhite;
-    background-color: black;
     flex: 1;
     overflow-y: auto;
 
