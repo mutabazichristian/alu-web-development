@@ -1,0 +1,113 @@
+body {
+    position: relative;
+    width: 1440px;
+    height: 3718px;
+
+    background: #FFFFFF;
+
+}
+
+header {
+    position: absolute;
+    width: 1103.41px;
+    height: 29.46px;
+    left: 171.59px;
+    top: 35.02px;
+}
+
+header #logo {
+    position: absolute;
+    width: 167.02px;
+    height: 29.46px;
+    left: 171.59px;
+    top: 35.02px;
+}
+
+.menu {
+    position: absolute;
+    width: 234px;
+    height: 15px;
+    left: 1041px;
+    top: 37px;
+}
+
+#main_part {
+    position: absolute;
+    width: 1440px;
+    height: 1093px;
+    left: 0px;
+    top: 0px;
+
+}
+
+#main_part #pros {
+    position: absolute;
+    width: 1009px;
+    height: 237px;
+    left: 217px;
+    top: 758px;
+}
+
+#main_part button {
+    position: absolute;
+    left: 44.38%;
+    right: 44.38%;
+    top: 38.33%;
+    bottom: 57.64%;
+
+    filter: drop-shadow(0px 2px 20px rgba(0, 0, 0, 0.5));
+}
+
+#main_part .pros {
+    position: absolute;
+    right: 34.93%;
+    top: 69.35%;
+    bottom: 8.97%;
+
+}
+
+#part_1_testimonials {
+
+    position: absolute;
+    width: 1440px;
+    height: 392px;
+    left: -1px;
+    top: 1093px;
+
+}
+
+#part_2_tutorials {
+    position: absolute;
+    width: 1228px;
+    height: 450px;
+    left: 106px;
+    top: 1572px;
+
+}
+
+#part_3_free_membership {
+    position: absolute;
+    width: 1440px;
+    height: 502px;
+    left: 0px;
+    top: 2109px;
+
+}
+
+#part_4_FAQ {
+    position: absolute;
+    width: 920px;
+    height: 707px;
+    left: 249px;
+    top: 2678px;
+
+}
+
+footer {
+    position: absolute;
+    width: 1440px;
+    height: 249px;
+    left: 0px;
+    top: 3469px;
+
+}
