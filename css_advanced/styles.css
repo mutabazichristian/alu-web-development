@@ -23,12 +23,75 @@ header #logo {
     top: 35.02px;
 }
 
+header #log_in {
+    position: absolute;
+    height: 15px;
+    left: 85.47%;
+    right: 0%;
+    top: calc(50% - 15px/2);
+
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+}
+
+header #pricing {
+    position: absolute;
+    height: 15px;
+    left: 43.59%;
+    right: 37.18%;
+    top: calc(50% - 15px/2);
+
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+}
+
+header #courses {
+    position: absolute;
+    height: 15px;
+    left: 0%;
+    right: 78.63%;
+    top: calc(50% - 15px/2);
+
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+}
+
 .menu {
     position: absolute;
     width: 234px;
     height: 15px;
     left: 1041px;
     top: 37px;
+    align-items: right;
+}
+
+.menu a {
+    text-decoration: none;
+
 }
 
 #main_part {
@@ -40,12 +103,59 @@ header #logo {
 
 }
 
+#main_part #get_schooled {
+    position: absolute;
+    height: 151px;
+    left: 26.18%;
+    right: 26.32%;
+    top: calc(50% - 151px/2 - 251px);
+
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 120px;
+    line-height: 151px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
 #main_part #pros {
     position: absolute;
     width: 1009px;
     height: 237px;
     left: 217px;
     top: 758px;
+}
+
+#main_part #pro_1 {
+    left: 15.07%;
+    ;
+}
+
+#main_part #pro_2 {
+    left: 35.14%;
+}
+
+#main_part #pro_3 {
+    left: 54.65%;
+}
+
+#main_part #pro_4 {
+    left: 74.72%;
+}
+
+#main_part img{
+    position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 36.71%;
+
+background: url(Image);
 }
 
 #main_part button {
